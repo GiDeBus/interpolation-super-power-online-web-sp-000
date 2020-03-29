@@ -3,6 +3,6 @@
 
 colors = ['red','orange','yellow','green','blue','indigo','violet']
 
-display_rainbow()
+def display_rainbow(colors)
   puts 
 end
